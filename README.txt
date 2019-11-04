@@ -20,10 +20,3 @@ Testing:
   These rules exercise every line of constructor and the functions it calls.
   For each rule I manually ran from command line looking for "allow" for each rule and looking for "deny" by
   mixing all 4 of them (dir, proto, port & IP) from other rules.
-
-If I had more time I would implement the optimization step and also automate creation of rules and running tests.
-
-
-Team Choice:
-
-After reading the team descriptions, I would say I am most inclined to join the Platform team, with a close second with joining the Data team. Looking forward to speaking more!
